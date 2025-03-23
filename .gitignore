@@ -1,0 +1,10 @@
+*.idea
+*~
+*__pycache__*
+*.pyc
+*.pytest_cache
+*.ipynb_checkpoints/
+pytracking/tracking_results/
+pytracking/result_plots/
+pretrained_networks/dimp50.pth
+tensorboard/
