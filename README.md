@@ -1,19 +1,19 @@
-<br />
 <p align="center">
-  <h1 align="center">Spiking Neural Network as Adaptive Event Stream Slicer
-(NeurIPS'24)</h1>
-  </p>
-  <p align="center">
-    <a href='https://arxiv.org/pdf/2410.02249'>
-      <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
-    </a>
-    <a href='https://proceedings.neurips.cc/paper_files/paper/2024/file/893a5db6100028ec814cfd99fe92c31b-Paper-Conference.pdf' style='padding-left: 0.5rem;'>
-      <img src='https://img.shields.io/badge/Proceeding-HTML-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Proceeding Supp'>
-    </a>
-  </p>
-  <p align="center">
-    <img src="images/spikeslicer.gif" alt="Logo" width="80%">
-  </p>
+  <h1 align="center">Spiking Neural Network as Adaptive Event Stream Slicer (NeurIPS'24)</h1>
+</p>
+<p align="center">
+  <a href='https://arxiv.org/pdf/2410.02249'>
+    <img src='https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red' alt='Paper PDF'>
+  </a>
+  <a href='https://proceedings.neurips.cc/paper_files/paper/2024/file/893a5db6100028ec814cfd99fe92c31b-Paper-Conference.pdf' style='padding-left: 0.5rem;'>
+    <img src='https://img.shields.io/badge/Proceeding-HTML-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Proceeding Supp'>
+  </a>
+  <a href='https://huggingface.co/SAGE2000/SpikeSlicer' style='padding-left: 0.5rem;'>
+    <img src='https://img.shields.io/badge/🤗%20Hugging%20Face-Model%20Hub-yellow?style=flat&logoColor=yellow' alt='Hugging Face Model Hub'>
+  </a>
+</p>
+<p align="center">
+  <img src="images/spikeslicer.gif" alt="Logo" width="80%">
 </p>
 
 
